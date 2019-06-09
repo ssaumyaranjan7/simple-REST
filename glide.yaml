@@ -1,0 +1,6 @@
+package: github.com/example/Simple-REST
+import:
+- package: github.com/gorilla/mux
+  version: v1.7.1
+- package: github.com/jinzhu/gorm
+  version: v1.9.8

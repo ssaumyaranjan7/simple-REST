@@ -1,0 +1,8 @@
+hash: 333b3cbe05da638d0d83b3f1b43f84d609b2c57ce3925255645de3e253cf47c7
+updated: 2019-05-14T12:47:23.754102293+05:30
+imports:
+- name: github.com/gorilla/mux
+  version: c5c6c98bc25355028a63748a498942a6398ccd22
+- name: github.com/jinzhu/gorm
+  version: b7156195f7f3415f97c20abbd6aff894b847fee8
+testImports: []
